@@ -16,6 +16,7 @@ Links from [Public Service Legal Tech in the Data.Gov Era](http://www.techshow.c
 + [OpenGov Foundation](http://www.opengovfoundation.org/)
 + [U.S. Open Data](https://usopendata.org/)
 + [Sunlight Foundation](http://sunlightfoundation.com/tools/#featured)
++ [Congressional Data Coalition](http://congressionaldata.org/)
 + [U.S. Courts](http://www.uscourts.gov/)
 + [U.S. GPO - FDsys](https://www.gpo.gov/fdsys/)
 + [State Legal Information Census (Sarah Glassmeyer)](http://www.sarahglassmeyer.com/StateLegalInformation/)
