@@ -1,5 +1,7 @@
-# ABATechShow2016
-Links from [Public Service Legal Tech in the Data.Gov Era](http://www.techshow.com/schedule/public-service-legal-tech-in-the-data-gov-era/)
+# ABA TechShow 2016
+David Colarusso ([@colarusso](https://twitter.com/colarusso)), Michael Robak ([@RobakLaw](https://twitter.com/RobakLaw)), and Adam Ziegler ([@abziegler](https://twitter.com/abziegler)) 
+
+Links from [Public Service Legal Tech in the Data.Gov Era](http://www.techshow.com/schedule/public-service-legal-tech-in-the-data-gov-era/): March 17, 2016 @ 11:00 a.m.
 
 + [Library Innovation Lab](http://librarylab.law.harvard.edu/)
 + [Data.gov](http://www.data.gov/)
