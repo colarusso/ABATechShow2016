@@ -24,6 +24,7 @@ Links from [Public Service Legal Tech in the Data.Gov Era](http://www.techshow.c
 + [Free Law Project](https://free.law/)
 + [Free the Law](http://librarylab.law.harvard.edu/projects/free-the-law)
 + [Illinois Supreme Court](http://www.illinoiscourts.gov/Opinions/SupremeCourt/2015/default.asp)
++ [UMCK Parcel Assessment Tool](http://umkc-law.github.io/Parcel-Assessment-Tool)
 + [Crowd Queue](http://crowdqueue.org)
 + [QnA Markup](http://www.qnamarkup.org)
 + [Coding for Lawyers](http://codingforlawyers.com/)
